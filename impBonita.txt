@@ -11,3 +11,11 @@
 *********************
      nombre	edad	peso	
 *********************
+     nombre	apellido	edad	
+*********************
+     nombre	apellido	edad	
+*********************
+     nombre	edad	peso	
+*********************
+     nombre	edad	peso	
+*********************
